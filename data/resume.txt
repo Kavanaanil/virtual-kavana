@@ -1,0 +1,59 @@
+Kavana Anil
+Milpitas, CA | (848) 260-8866 | kavanaanil78@gmail.com | linkedin.com/in/kavanaanil | github.com/Kavanaanil
+Summary
+Business Systems Analyst with 4+ years of experience analyzing, designing, and implementing data-driven solutions for enterprise
+and healthcare systems. Skilled in SQL, Oracle CC&B, data modeling, and end-to-end business process analysis. Proven ability to
+collaborate with cross-functional teams to define requirements, validate solutions, and deliver high-quality, compliant, and scalable
+system enhancements.
+Education
+Master of Science in Data Analytics Aug 2023 – May 2025
+San Jose State University GPA: 3.78/4.00
+Bachelor of Technology in Electronics and Instrumentation Engineering Jul 2015 – May 2019
+Visvesvaraya Technological University GPA: 3.7/4.00
+Technical Skills
+Business Systems & Analysis: Business Process Analysis, Requirements Gathering, Functional Specifications, UX/UI Design,
+Use Cases, Peer Review, SOX Compliance
+Databases & SQL: SQL (Joins, Window Functions, Stored Procedures), Oracle CC&B, Data Modeling, Schema Design,
+Relational Databases, Data Validation
+Tools & Documentation: MS Office (Word, Excel, PowerPoint, Visio), UML, Tableau, Power BI, SSRS
+Data Engineering & Analytics: Python, Pandas, NumPy, ETL/ELT Pipelines, Databricks, PostgreSQL, MySQL, MongoDB
+Cloud & DevOps: AWS, GCP, Docker, Kubernetes (basic)
+Experience
+NVIDIA Corporation Jun 2025 – Present
+Data Scientist (Contract)
+– Analyzed complex business and planning processes, translating requirements into detailed functional specifications and
+SQL-based solutions.
+– Collaborated with planners, finance, and data engineering teams to design, validate, and implement scalable datasets for
+enterprise forecasting.
+– Developed source-to-target mappings and automated validation rules ensuring data integrity and compliance with internal
+controls.
+– Prepared test plans and executed data validation, performing peer reviews to ensure alignment with business needs.
+– Advised on alternative solution approaches, proposed enhancements, and supported prioritization of deliverables for
+medium-to-high complexity initiatives.
+– Communicated technical processes to business stakeholders and ensured timely responses to client inquiries.
+Accenture Solutions Pvt Ltd Jun 2019 – Dec 2022
+Data Analyst
+– Gathered and analyzed business requirements for regulatory and enterprise analytics projects, translating them into
+functional design and SQL solutions.
+– Designed relational data models and performed data validation, ensuring accuracy of reporting and compliance with SOX
+standards.
+– Developed ETL/ELT pipelines and automated reporting workflows using SQL and SSIS, reducing manual processing by 30%.
+– Collaborated with cross-functional teams including business users, developers, and QA to implement system enhancements.
+– Created test cases and reviewed test results to validate solutions met business and compliance requirements.
+– Documented processes, functional specifications, and business rules for medium-complexity projects.
+Saadruso Technology Ventures Pvt Ltd Jul 2018 – May 2019
+Project Intern
+– Supported design and implementation of data models and workflows for IoT vehicle sensor data, aligning outputs with
+business objectives.
+– Prepared SQL queries and dashboards to monitor data accuracy and support operational reporting.
+– Collaborated with team members to document functional requirements and system processes.
+Projects
+Healthcare Cost Analytics Platform
+– Built healthcare data pipelines and analytical datasets supporting cost and utilization analysis across claims and provider
+data.
+– Performed SQL-based data validation, reconciliation, and source-to-target mapping.
+– Created Streamlit dashboards with a chat interface for interactive cost analysis by business users.
+Persona AI Bot
+– Designed end-to-end data ingestion, cleaning, and versioning pipelines for persona-based AI applications.
+– Implemented embedding generation and FAISS vector storage for retrieval-augmented generation, aligning outputs with
+business requirements.

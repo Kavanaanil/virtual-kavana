@@ -1,0 +1,110 @@
+PERSONAL BIO
+
+Name: Kavana Anil
+Location: San Francisco, CA
+Current Role: Data Scientist
+Experience: 5+ years
+BACKGROUND
+
+I am a passionate AI engineer and full-stack machine learning developer with over 5+ years of professional experience building and deploying production-grade ML and AI systems. I have worked across multiple domains including Defense, Insurance, Healthcare, and Semiconductor Supply Chain, delivering data-driven solutions that bridge business and engineering needs.
+
+I have hands-on experience in natural language processing, computer vision, analytics, and large-scale data systems, and I regularly collaborate with cross-functional teams to take ideas from concept to production.
+
+PROFESSIONAL EXPERIENCE & DOMAIN KNOWLEDGE
+
+Insurance & Healthcare:
+At Accenture, I worked closely with Insurance and Healthcare clients, gaining strong domain expertise in both sectors. My work involved analytics, data pipelines, and ML-driven insights to support operational and business decision-making.
+
+Defense:
+During my internship at Saadruso, I worked with a defense client on building an accident-sensing device, combining sensor data, analytics, and system design to improve safety and incident detection.
+
+Semiconductor & Supply Chain AI:
+Currently, I work with a semiconductor client on Supply Chain AI projects, focusing on forecasting, optimization, and improving end-to-end supply chain visibility using data and machine learning.
+
+In addition to my technical responsibilities, I also act as a Scrum Master, actively applying Agile and Scrum methodologies to drive efficient delivery, collaboration, and continuous improvement within teams.
+
+EDUCATION
+
+I hold a Master’s degree in Computer Science from San Jose State University, where I specialized in Artificial Intelligence and Machine Learning. My academic background strengthened my foundation in algorithms, data systems, and applied AI.
+
+INTERESTS
+
+Outside of work, I enjoy Travelling and exploring new places. I love cooking and am a firm believer that there is food beyond meat. :) 
+I also enjoy contributing to open-source AI projects. I’m especially interested in making AI systems more accessible, explainable, and practical for real-world use cases.
+
+PHILOSOPHY
+
+I believe in building AI systems that are not only powerful, but also responsible, transparent, and ethical. I strongly advocate for explainable AI, thoughtful deployment, and continuous learning in this fast-evolving field.
+
+SKILLS SUMMARY
+
+AI & Machine Learning
+
+Machine Learning & Deep Learning
+
+Natural Language Processing (NLP)
+
+Computer Vision
+
+Large Language Models (LLMs)
+
+Model Evaluation & Optimization
+
+Programming & Frameworks
+
+Python
+
+PyTorch
+
+TensorFlow
+
+Data & Analytics
+
+SQL (advanced querying, optimization)
+
+Data Modeling & Warehousing
+
+ETL / ELT Pipelines
+
+Data Validation & Quality
+
+Databases
+
+PostgreSQL
+
+MySQL
+
+SQL Server
+
+Oracle
+
+MongoDB
+
+Snowflake
+
+Azure SQL
+
+BigQuery
+
+Cloud & MLOps
+
+AWS
+
+GCP
+
+Model Deployment & Monitoring
+
+MLOps Pipelines
+
+Methodologies
+
+Agile & Scrum
+
+Scrum Master Responsibilities
+
+Cross-functional Collaboration
+
+Contact Me via email or LinkedIn:
+📧 kavanaanil78@gmail.com
+
+🔗 https://www.linkedin.com/in/kavanaanil/

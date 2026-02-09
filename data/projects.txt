@@ -1,0 +1,27 @@
+Bike Store Management System
+• Architected a relational database system optimizing purchasing, user, and supply chain logistics through indexing, stored
+procedures, and triggers, while designing RESTful APIs for CRUD operations on inventory and user data, enabling seamless
+integration with OLAP for real-time data analysis and reporting.
+EV Chatbot
+• Utilized SQL and Python for data cleaning, transformation, and insight extraction, and engineered a Tableau dashboard to
+visualize 10-year electric vehicle demand trends with optimized SQL-based data storage for in-depth market analysis.
+• Developed an AI-powered application using LangChain, RAG, and fine-tuned models to provide rapid, data-driven answers to
+business intelligence queries on EV trends.
+H-Predict
+• Applied data modeling and statistical analysis to predict healthcare costs (R²: 0.911) using regression and clustering
+methods, and developed a Streamlit dashboard with Django visualizations for deeper cost insights, adjusted for inflation.
+YELP Review Analysis
+• Developed a Big Data ETL pipeline leveraging Hadoop, Hive, Kafka, PySpark, and MongoDB to analyze YELP reviews and
+ratings, providing real-time sentiment insights using ML models.
+• Utilized Spark Streaming to ingest real-time YELP review data from Kafka and employed Spark SQL with Hive for efficient
+query execution, data aggregation, and optimized storage of structured review data.
+Personality AI
+• Developed and deployed an AI chatbot emulating Elon Musk’s persona using RAG,Vector Store (FAISS,Pinecone), NLP,
+Lang Chain and fine-tuned LLM models with custom training data utilizing Google Cloud, BigQuery and Apache Airflow.
+• Applied user stories and product project management to design scalable data pipelines, build a data warehouse for
+conversation history, and integrate secure API key management for deployment.
+Pothole Detection System
+• Engineered an IoT-based pothole detection system utilizing multiple sensor arrays (accelerometer, gyroscope, GPS) to identify road surface anomalies in real-time, implementing data streaming protocols for continuous monitoring and geospatial mapping integration.
+• Developed a scalable data pipeline using MQTT/Kafka for sensor data ingestion, applied signal processing algorithms and ML classification models (Random Forest, SVM) to achieve 92% pothole detection accuracy, and deployed RESTful APIs for real-time map visualization.
+• Integrated sensor data with cloud infrastructure (AWS IoT Core/Google Cloud IoT) and implemented geospatial databases (PostGIS/MongoDB) to store pothole coordinates, severity metrics, and timestamps, enabling automated road maintenance prioritization dashboards.
+• Designed an interactive web-based mapping interface using Leaflet.js/Google Maps API to visualize detected potholes with severity heat maps, historical trend analysis, and automated alert notifications to municipal authorities for proactive infrastructure management.

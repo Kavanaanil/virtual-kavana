@@ -1,0 +1,3 @@
+@echo off
+echo Starting Personal Chatbot...
+streamlit run app.py
