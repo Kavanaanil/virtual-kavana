@@ -20,7 +20,7 @@ Data Engineering & Analytics: Python, Pandas, NumPy, ETL/ELT Pipelines, Databric
 Cloud & DevOps: AWS, GCP, Docker, Kubernetes (basic)
 Experience
 NVIDIA Corporation Jun 2025 – Present
-Data Scientist (Contract)
+Data Scientist (Contract) :Current role and responsibilities
 – Analyzed complex business and planning processes, translating requirements into detailed functional specifications and
 SQL-based solutions.
 – Collaborated with planners, finance, and data engineering teams to design, validate, and implement scalable datasets for
