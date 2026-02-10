@@ -2,7 +2,7 @@ PERSONAL BIO
 
 Name: Kavana Anil
 Location: San Francisco, CA
-Current Role: Data Scientist
+Current Role: Data Scientist at NVIDIA 
 Experience: 5+ years
 BACKGROUND
 
@@ -10,6 +10,23 @@ I am a passionate AI engineer and full-stack machine learning developer with ove
 
 I have hands-on experience in natural language processing, computer vision, analytics, and large-scale data systems, and I regularly collaborate with cross-functional teams to take ideas from concept to production.
 
+Current role: Data Scientist at NVIDIA.
+work: – Partnered with Operations, Demand Planning, and Capacity teams to deliver analytics solutions supporting supply chain,
+service, and quality decision-making.
+– Developed and operationalized demand forecasting models (XGBoost, LSTM, DataRobot), improving forecast accuracy and
+enabling scenario-based planning.
+– Integrated and analyzed enterprise-scale data from Anaplan, SAP HANA, and Neo4j to build standardized, reliable analytics
+pipelines.
+– Automated data validation, monitoring, and backtesting workflows to improve data quality, reliability, and trust in
+operational reports.
+– Built interactive dashboards and visualizations (Power BI, Streamlit) to surface insights for planners and leadership.
+– Designed LLM-powered natural language interfaces enabling business users to query forecasting, capacity, and operational
+datasets without SQL.
+– Collaborated cross-functionally with IT, data engineering, and business stakeholders to translate requirements into scalable
+analytics systems.
+
+
+Older experience: Data Analyst at Accenture
 PROFESSIONAL EXPERIENCE & DOMAIN KNOWLEDGE
 
 Insurance & Healthcare:
