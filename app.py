@@ -229,9 +229,6 @@ def main():
         if st.button("Clear Chat History"):
             st.session_state.messages = []
             st.rerun()
-        
-        st.divider()
-        st.caption("Powered by LLaMA 3.1 (Groq) & FAISS")
 
 
 if __name__ == "__main__":
