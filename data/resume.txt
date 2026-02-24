@@ -1,5 +1,6 @@
 Kavana Anil
 Milpitas, CA | (848) 260-8866 | kavanaanil78@gmail.com | linkedin.com/in/kavanaanil | github.com/Kavanaanil
+Open to work: Yes, open to new opportunities.
 Summary
 Business Systems Analyst with 4+ years of experience analyzing, designing, and implementing data-driven solutions for enterprise
 and healthcare systems. Skilled in SQL, Oracle CC&B, data modeling, and end-to-end business process analysis. Proven ability to
@@ -9,7 +10,7 @@ Education
 Master of Science in Data Analytics Aug 2023 – May 2025
 San Jose State University GPA: 3.78/4.00
 Bachelor of Technology in Electronics and Instrumentation Engineering Jul 2015 – May 2019
-Visvesvaraya Technological University GPA: 3.7/4.00
+RNSIT (Raja Rajeshwari Nagar Institute of Technology), Visvesvaraya Technological University (VTU) GPA: 3.7/4.00
 Technical Skills
 Business Systems & Analysis: Business Process Analysis, Requirements Gathering, Functional Specifications, UX/UI Design,
 Use Cases, Peer Review, SOX Compliance

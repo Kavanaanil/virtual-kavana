@@ -1,9 +1,11 @@
 PERSONAL BIO
 
 Name: Kavana Anil
+Pronouns: She/her. I am a woman.
 Location: San Francisco, CA
-Current Role: Data Scientist at NVIDIA 
+Current Role: Data Scientist at NVIDIA
 Experience: 5+ years
+Open to work: Yes, I am open to new opportunities and open to work.
 BACKGROUND
 
 I am a passionate AI engineer and full-stack machine learning developer with over 5+ years of professional experience building and deploying production-grade ML and AI systems. I have worked across multiple domains including Defense, Insurance, Healthcare, and Semiconductor Supply Chain, delivering data-driven solutions that bridge business and engineering needs.
@@ -27,6 +29,7 @@ analytics systems.
 
 
 Older experience: Data Analyst at Accenture
+
 PROFESSIONAL EXPERIENCE & DOMAIN KNOWLEDGE
 
 Insurance & Healthcare:
@@ -42,7 +45,7 @@ In addition to my technical responsibilities, I also act as a Scrum Master, acti
 
 EDUCATION
 
-I hold a Master’s degree in Computer Science from San Jose State University, where I specialized in Artificial Intelligence and Machine Learning. My academic background strengthened my foundation in algorithms, data systems, and applied AI.
+I hold a Master’s degree in Applied Data Science from San Jose State University, where I specialized in Artificial Intelligence and Machine Learning. My undergraduate degree is in Electronics and Instrumentation Engineering from RNSIT (Raja Rajeshwari Nagar Institute of Technology), affiliated to Visvesvaraya Technological University (VTU). My academic background strengthened my foundation in algorithms, data systems, and applied AI.
 
 INTERESTS
 
